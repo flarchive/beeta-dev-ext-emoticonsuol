@@ -1,0 +1,24 @@
+{
+    "name": "beeta-dev/ext-emoticonsuol",
+    "description": "Beeta Emos UOL",
+    "type": "flarum-extension",
+    "authors": [{
+        "name": "blurkness",
+        "email": "blurkness@gmail.com"
+    }],
+    "require": {
+        "flarum/core": "^0.1.0-beta.4"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Beeta Emos UOL",
+            "icon": {
+                "name": "smile-o",
+                "backgroundColor": "#14191F", 
+                "color": "#E7712E"
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable" : true
+}
